@@ -8,4 +8,4 @@ nextISSTimesForMyLocation()
       const duration = pass.duration;
       console.log(`Next pass at ${datetime} for ${duration} seconds!`);
     }
-  })
+  });
